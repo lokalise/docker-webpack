@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:14
 MAINTAINER Arturs Ziborovs <arturs.ziborovs@gmail.com>
 
 ARG webpack_version=4.x

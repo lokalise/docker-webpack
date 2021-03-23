@@ -1,2 +1,2 @@
 # docker-webpack
-A simple docker image based on node 10 with webpack
+A simple docker image based on node 14 with webpack
